@@ -1,4 +1,10 @@
 # Artificial-Intelligence-Nanodegree-Program
 classroom.udacity.com
 
-- Introductory Project: Diagonal Sudoku Solver
+# Artificial Intelligence Nanodegree
+
+## Projects listing
+
+	- Introductory Project: Diagonal Sudoku Solver.
+
+	- AIND-Isolation: Adversarial agent on simplified isolation board.
